@@ -1,19 +1,16 @@
-﻿# Data Scientist
+# Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python, SQL, AWS, Zenml, Kedro.
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)
+- BCA, Physics | Swamin vivekanand University (_May 2023_)	
 
 ## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
+**Work with team under the @Antern**
+- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 
 ## Projects
-### Data-Driven EEG Band Discovery with Decision Trees
-### Decoding Physical and Cognitive Impacts of Particulate 
+### Data-Driven model with Decision Trees
+Created a model which can tell how the product performence before customer by it using technology like **Zenml**
 
-## Talks & Lectures
--hwllo
-## Publications
+[Customer satisfaction](assets/img/)
