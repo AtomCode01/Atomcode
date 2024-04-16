@@ -10,10 +10,11 @@
 **Work with team under the @Antern**
 - Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
 
-## Projects
-- [retail-price-optimization](https://github.com/AtomCode01/retail-price-optimization)
-- 
 ### Data-Driven model with Decision Trees
 Created a model which can tell how the product performence before customer by it using technology like **Zenml**
 
-[Customer satisfaction](assets/img/)
+[Customer satisfaction](assets/img/product.webp)
+
+## Projects
+- [retail-price-optimization](https://github.com/AtomCode01/retail-price-optimization)
+  
