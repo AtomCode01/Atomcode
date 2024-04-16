@@ -13,7 +13,7 @@
 ### Data-Driven model with Decision Trees
 Created a model which can tell how the product performence before customer by it using technology like **Zenml**
 
-[Customer satisfaction](assets/img/product.webp)
+[Customer satisfaction](assets/img/code.jpg)
 
 ## Projects
 - [retail-price-optimization](https://github.com/AtomCode01/retail-price-optimization)
