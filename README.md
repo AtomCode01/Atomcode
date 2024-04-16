@@ -15,4 +15,4 @@ Created a model which can tell how the product performence before customer by it
 
 ## Projects
 - [retail-price-optimization](https://github.com/AtomCode01/retail-price-optimization)
-  
+![Price Optimization](assets/img/code.jpg)
