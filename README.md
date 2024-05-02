@@ -14,5 +14,5 @@
 Created a model which can tell how the product performence before customer by it using technology like **Zenml**
 
 ## Projects
-- [retail-price-optimization](https://github.com/AtomCode01/retail-price-optimization)
+- [Customer_satisfaction](https://github.com/AtomCode01/Customer_satisfaction)
 ![Price Optimization](assets/img/code.jpg)
