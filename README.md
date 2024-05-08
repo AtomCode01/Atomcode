@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Zenml, Kedro.
 
 ## Education
-- shaiphali Public School, Dadri (_2020_)
+- Dolphin Public School - India (_2020_)
 - BCA | Swamin vivekanand University (2021 to 2024)	
 
 ## Work Experience
